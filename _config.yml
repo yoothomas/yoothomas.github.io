@@ -1,0 +1,15 @@
+title: yoothomas.com
+description: ""
+url: https://yoothomas.com
+baseurl: ""
+theme: minima
+header_pages:
+  - about.md
+  - projects.md
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - flake.nix
+  - flake.lock
+  - README.md
+  - vendor
